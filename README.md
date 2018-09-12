@@ -1,2 +1,3 @@
-# rmccdc
+ROCKY MOUNTAIN COLLEGIATE CYBER DEFENSE COMPETITION Website
+
 http://rmccdc.regis.edu/
