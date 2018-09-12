@@ -1,0 +1,4 @@
+User-Agent: *
+
+Disallow: _old
+Disallow: test.html
